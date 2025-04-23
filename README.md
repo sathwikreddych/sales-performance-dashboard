@@ -4,6 +4,11 @@
 
 The FarmFresh Market dashboard provides a comprehensive view of retail performance—sales trends, profit margins, return rates, and regional analysis—so stakeholders can make data-driven decisions.
 
+
+🔗 **Full documentation:** [docs/PowerBI-Project-Documentation.md](docs/PowerBI-Project-Documentation.md)  
+🔗 **DAX formulas:** [docs/DAX-Formulas.md](docs/DAX-Formulas.md)
+
+
 - **Objective:** Build an interactive Power BI report to optimize business strategies and enhance operational efficiency.  
 - **Scope:** Analyze 1997–1998 sales, returns, customer, product, store & region data.  
 - **Data Sources:**  
