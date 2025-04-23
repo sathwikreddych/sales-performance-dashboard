@@ -13,7 +13,6 @@ The FarmFresh Market dashboard provides a comprehensive view of retail performan
   - `Calendar.csv` for time intelligence  
   - `Transactions_1997-1998.csv` & `Returns_1997-1998.csv`
 
-[...]
 
 
 
